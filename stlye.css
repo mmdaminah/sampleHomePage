@@ -79,7 +79,6 @@ html, body {
     width: 90%;
     height: 100%;
     min-height:300px;
-    min-width:200px;
     background-image: url(./image1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
